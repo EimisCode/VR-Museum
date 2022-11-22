@@ -1,0 +1,1622 @@
+﻿Log file open, 11/22/22 00:35:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=4432)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: VrMuseum
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/VrMuseum.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2251] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="d84c67e84886e46a1dae98b321fba43f"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.726007
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-AD72D9DB4FEE876807422894CA339E65
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.11 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.12 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.12 seconds
+LogConfig: Display: Loading Android ini files took 0.13 seconds
+LogConfig: Display: Loading Mac ini files took 0.13 seconds
+LogConfig: Display: Loading Unix ini files took 0.15 seconds
+LogConfig: Display: Loading TVOS ini files took 0.15 seconds
+LogConfig: Display: Loading Windows ini files took 0.16 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.18 seconds
+LogConfig: Display: Loading Linux ini files took 0.19 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OculusVR
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed loading OVRPlugin 1.65.0
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2251] (), CPU: Intel(R) Core(TM) i7-10870H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files (x86)/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:None]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:None]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[r.Mobile.AllowSoftwareOcclusion:0]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[r.VT.EnableCompressZlib:1]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[r.VT.EnableCompressCrunch:0]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[r.DistanceFieldBuild.EightBit:0]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[r.GenerateLandscapeGIData:0]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[r.DistanceFieldBuild.Compress:0]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[r.EyeAdaptation.EditorOnly:0]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[r.SSGI.Enable:0]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[r.SupportAtmosphericFog:1]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[r.LightPropagationVolume:0]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2022.11.22-00.35.22:726][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.22-00.35.22:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.22-00.35.22:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.22-00.35.22:727][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.22-00.35.22:728][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.22-00.35.22:735][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.22-00.35.22:735][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.22-00.35.22:735][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.22-00.35.22:735][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.22-00.35.22:735][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.22-00.35.22:735][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.22-00.35.22:735][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.22-00.35.22:735][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.22-00.35.22:735][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.22-00.35.22:735][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.22-00.35.22:736][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.22-00.35.22:760][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.11.22-00.35.23:127][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.11.22-00.35.23:127][  0]LogHMD: Optional extension XR_KHR_binding_modification is not available
+[2022.11.22-00.35.23:127][  0]LogHMD: Optional extension XR_EXT_dpad_binding is not available
+[2022.11.22-00.35.23:129][  0]LogHMD: Initialized OpenXR on Oculus runtime version 1.78.0
+[2022.11.22-00.35.23:133][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.22-00.35.23:133][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.11.22-00.35.23:133][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.22-00.35.23:133][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.11.22-00.35.23:133][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.11.22-00.35.23:136][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.22-00.35.23:136][  0]LogD3D11RHI:     DeviceId    : 1f15
+[2022.11.22-00.35.23:136][  0]LogD3D11RHI:     SubSysId    : 85201558
+[2022.11.22-00.35.23:136][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.22-00.35.23:136][  0]LogD3D11RHI:     DedicatedVideoMemory : 6257901568 bytes
+[2022.11.22-00.35.23:136][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.22-00.35.23:136][  0]LogD3D11RHI:     SharedSystemMemory : 8479240192 bytes
+[2022.11.22-00.35.23:136][  0]LogD3D11RHI:     AdapterLuid : 0 68738
+[2022.11.22-00.35.23:386][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_1)
+[2022.11.22-00.35.23:387][  0]LogD3D11RHI:       5968/0/8086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.11.22-00.35.23:387][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.11.22-00.35.23:387][  0]LogD3D11RHI:     Description : Intel(R) UHD Graphics
+[2022.11.22-00.35.23:387][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.11.22-00.35.23:387][  0]LogD3D11RHI:     DeviceId    : 9bc4
+[2022.11.22-00.35.23:387][  0]LogD3D11RHI:     SubSysId    : 85201558
+[2022.11.22-00.35.23:387][  0]LogD3D11RHI:     Revision    : 0005
+[2022.11.22-00.35.23:387][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.11.22-00.35.23:387][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.22-00.35.23:387][  0]LogD3D11RHI:     SharedSystemMemory : 8479240192 bytes
+[2022.11.22-00.35.23:387][  0]LogD3D11RHI:     AdapterLuid : 0 67802
+[2022.11.22-00.35.23:577][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_1)
+[2022.11.22-00.35.23:577][  0]LogD3D11RHI:       128/0/8086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.11.22-00.35.23:578][  0]LogD3D11RHI: Testing D3D11 Adapter 2:
+[2022.11.22-00.35.23:578][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.11.22-00.35.23:579][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.11.22-00.35.23:579][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.11.22-00.35.23:579][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.11.22-00.35.23:579][  0]LogD3D11RHI:     Revision    : 0000
+[2022.11.22-00.35.23:579][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.11.22-00.35.23:579][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.22-00.35.23:579][  0]LogD3D11RHI:     SharedSystemMemory : 8479240192 bytes
+[2022.11.22-00.35.23:579][  0]LogD3D11RHI:     AdapterLuid : 0 68681
+[2022.11.22-00.35.23:586][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.11.22-00.35.23:586][  0]LogD3D11RHI:       0/0/8086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.22-00.35.23:586][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.11.22-00.35.23:586][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.11.22-00.35.23:586][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.22-00.35.23:586][  0]LogD3D11RHI:     DeviceId    : 1f15
+[2022.11.22-00.35.23:586][  0]LogD3D11RHI:     SubSysId    : 85201558
+[2022.11.22-00.35.23:586][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.22-00.35.23:586][  0]LogD3D11RHI:     DedicatedVideoMemory : 6257901568 bytes
+[2022.11.22-00.35.23:586][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.22-00.35.23:586][  0]LogD3D11RHI:     SharedSystemMemory : 8479240192 bytes
+[2022.11.22-00.35.23:587][  0]LogD3D11RHI:     AdapterLuid : 0 68738
+[2022.11.22-00.35.23:587][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.22-00.35.23:587][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.22-00.35.23:587][  0]LogHAL: Display: Platform has ~ 16 GB [16958480384 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.22-00.35.23:587][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.22-00.35.23:587][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.22-00.35.23:587][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.22-00.35.23:588][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.22-00.35.23:588][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.22-00.35.23:588][  0]LogInit: Computer: DESKTOP-OG7EE4M
+[2022.11.22-00.35.23:588][  0]LogInit: User: Ciaran
+[2022.11.22-00.35.23:588][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.22-00.35.23:588][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.22-00.35.23:588][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.11.22-00.35.23:588][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.22-00.35.23:588][  0]LogMemory: Process Physical Memory: 285.71 MB used, 294.07 MB peak
+[2022.11.22-00.35.23:588][  0]LogMemory: Process Virtual Memory: 249.94 MB used, 249.94 MB peak
+[2022.11.22-00.35.23:588][  0]LogMemory: Physical Memory: 9637.09 MB used,  6535.78 MB free, 16172.87 MB total
+[2022.11.22-00.35.23:588][  0]LogMemory: Virtual Memory: 20140.13 MB used,  22656.73 MB free, 42796.87 MB total
+[2022.11.22-00.35.23:588][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.22-00.35.23:603][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.22-00.35.23:648][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.22-00.35.23:650][  0]LogInit: Using OS detected language (en-GB).
+[2022.11.22-00.35.23:650][  0]LogInit: Using OS detected locale (en-IE).
+[2022.11.22-00.35.23:668][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so 'en' will be used for the language.
+[2022.11.22-00.35.24:119][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.22-00.35.24:164][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.22-00.35.24:164][  0]LogWindowsTextInputMethodSystem:   - English (Ireland) - (Keyboard).
+[2022.11.22-00.35.24:164][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.11.22-00.35.24:164][  0]LogWindowsTextInputMethodSystem:   - English (Ireland) - Touch Input Correction (TSF IME).
+[2022.11.22-00.35.24:165][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.22-00.35.24:166][  0]LogWindowsTextInputMethodSystem: Activated input method: English (Ireland) - (Keyboard).
+[2022.11.22-00.35.24:209][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.22-00.35.24:209][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.22-00.35.24:658][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.22-00.35.24:658][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.22-00.35.24:659][  0]LogWindows: Attached monitors:
+[2022.11.22-00.35.24:659][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.22-00.35.24:659][  0]LogWindows: Found 1 attached monitors.
+[2022.11.22-00.35.24:659][  0]LogWindows: EnumDisplayDevices:
+[2022.11.22-00.35.24:660][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.22-00.35.24:661][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.11.22-00.35.24:661][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.22-00.35.24:662][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.22-00.35.24:662][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.11.22-00.35.24:663][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.11.22-00.35.24:664][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.11.22-00.35.24:665][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.11.22-00.35.24:665][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.11.22-00.35.24:665][  0]LogD3D11RHI:   Driver Version: 526.86 (internal:31.0.15.2686, unified:526.86)
+[2022.11.22-00.35.24:665][  0]LogD3D11RHI:      Driver Date: 11-8-2022
+[2022.11.22-00.35.24:665][  0]LogRHI: Texture pool is 4177 MB (70% of 5968 MB)
+[2022.11.22-00.35.24:665][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.11.22-00.35.24:665][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2060
+[2022.11.22-00.35.24:665][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.22-00.35.24:665][  0]LogD3D11RHI:     DeviceId    : 1f15
+[2022.11.22-00.35.24:665][  0]LogD3D11RHI:     SubSysId    : 85201558
+[2022.11.22-00.35.24:666][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.22-00.35.24:666][  0]LogD3D11RHI:     DedicatedVideoMemory : 6257901568 bytes
+[2022.11.22-00.35.24:666][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.22-00.35.24:666][  0]LogD3D11RHI:     SharedSystemMemory : 8479240192 bytes
+[2022.11.22-00.35.24:666][  0]LogD3D11RHI:     AdapterLuid : 0 68738
+[2022.11.22-00.35.24:860][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.22-00.35.24:861][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.22-00.35.24:861][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.11.22-00.35.24:861][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.22-00.35.24:911][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.11.22-00.35.25:002][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.11.22-00.35.25:018][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/VrMuseum.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/VrMuseum.uproject"  -platform=all'
+[2022.11.22-00.35.25:018][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files (x86)/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/VrMuseum.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/VrMuseum.uproject"  -platform=all" ]
+[2022.11.22-00.35.25:114][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.22-00.35.25:137][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.22-00.35.25:137][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.22-00.35.25:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.22-00.35.25:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.22-00.35.25:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.22-00.35.25:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.22-00.35.25:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.22-00.35.25:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.22-00.35.25:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.22-00.35.25:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.22-00.35.25:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.22-00.35.25:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.22-00.35.25:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.22-00.35.25:219][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.22-00.35.25:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.22-00.35.25:229][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.22-00.35.25:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.22-00.35.25:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.22-00.35.25:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.22-00.35.25:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.22-00.35.25:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.22-00.35.25:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.22-00.35.25:247][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.22-00.35.25:254][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.22-00.35.25:254][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.22-00.35.25:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.22-00.35.25:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.22-00.35.25:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.22-00.35.25:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.22-00.35.25:270][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.22-00.35.25:291][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.22-00.35.25:299][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.22-00.35.25:300][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.22-00.35.25:300][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.22-00.35.25:300][  0]LogTargetPlatformManager:   PCM
+[2022.11.22-00.35.25:306][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.22-00.35.25:306][  0]LogTargetPlatformManager:   BINKA
+[2022.11.22-00.35.25:306][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.22-00.35.25:306][  0]LogTargetPlatformManager:   OGG
+[2022.11.22-00.35.25:306][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.22-00.35.25:306][  0]LogTargetPlatformManager:   OPUS
+[2022.11.22-00.35.25:402][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.22-00.35.25:422][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.22-00.35.25:422][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.22-00.35.25:430][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.22-00.35.25:430][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.22-00.35.25:430][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.22-00.35.25:430][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.22-00.35.25:430][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.22-00.35.25:430][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.22-00.35.25:430][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.22-00.35.25:430][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.22-00.35.25:431][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.22-00.35.25:431][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.22-00.35.25:431][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.22-00.35.25:432][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.22-00.35.25:438][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.22-00.35.25:438][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.22-00.35.25:438][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.22-00.35.25:438][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.22-00.35.25:496][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.22-00.35.25:496][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.22-00.35.25:496][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.22-00.35.25:516][  0]LogDerivedDataCache: Speed tests for C:/Users/Ciaran/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.11.22-00.35.25:516][  0]LogDerivedDataCache: Display: Performance to C:/Users/Ciaran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=404.26MBs, RandomWriteSpeed=59.92MBs. Assigned SpeedClass 'Local'
+[2022.11.22-00.35.25:517][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ciaran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.22-00.35.25:517][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.22-00.35.25:517][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.22-00.35.25:536][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.22-00.35.25:536][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.22-00.35.25:537][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Intermediate/Shaders/WorkingDirectory/11832/).
+[2022.11.22-00.35.25:537][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ciaran/AppData/Local/Temp/UnrealShaderWorkingDir/8569AAA44BBA8E3284AD45A7508A4FE0/'.
+[2022.11.22-00.35.25:537][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.22-00.35.25:537][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.11.22-00.35.29:544][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.22-00.35.29:545][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.22-00.35.29:634][  0]LogAssetRegistry: FAssetRegistry took 0.0390 seconds to start up
+[2022.11.22-00.35.29:649][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.22-00.35.30:320][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.22-00.35.30:323][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.22-00.35.31:400][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.22-00.35.31:400][  0]LogDeviceProfileManager: Active device profile: [0000078FB5294600][0000078FA4E57800 50] WindowsEditor
+[2022.11.22-00.35.31:400][  0]LogDeviceProfileManager: Profiles: [0000078FB52940C0][0000078FA4E55000 50] Windows, [0000078FB5294600][0000078FA4E57800 50] WindowsEditor, [0000078FB5292300][0000078FA4DEC800 50] WindowsServer, [0000078FB5293D40][0000078F8CF25000 50] WindowsClient, [0000078FB5293800][0000078FA95DC800 50] IOS, [0000078FB5290000][0000078FB52C0000 50] iPadAir2, [0000078FB5295400][0000078FB52C7800 50] IPadPro, [0000078FB5295780][0000078FB52C5000 50] iPadAir3, [0000078FB5291A40][0000078FB52CA000 50] iPadAir4, [0000078FB5295080][0000078FB52CC800 50] iPadMini4, [0000078FB5291180][0000078FA4E52800 50] iPadMini5, [0000078FB5295940][0000078FB52E0000 50] iPadMini6, [0000078FB5298500][0000078FB52EA000 50] iPhone6S, [0000078FB5298880][0000078FB52E7800 50] iPhone7, [0000078FB5298C00][0000078FB52E5000 50] iPodTouch7, [0000078FB5296740][0000078FB52EC800 50] iPhone6SPlus, [0000078FB5294440][0000078FB52C2800 50] iPhone7Plus, [0000078FB5295CC0][0000078FB52F0000 50] iPhoneSE, [0000078FB5291500][0000078FB52F5000 50] iPhone8, [0000078FB5298A40][0000078FB52F7800 50] iPhone8Plus, [0000078FB5292140][0000078FB52FA000 50] iPhoneX, [0000078FB5295240][0000078FB52FC800 50] iPhoneXS, [0000078FB5293100][0000078FB52E2800 50] iPhoneXSMax, [0000078FB5292F40][0000078FB5300000 50] iPhoneXR, [0000078FB52955C0][0000078FB5305000 50] iPhone11, [0000078FB5298180][0000078FB5307800 50] iPhone11Pro, [0000078FB5297700][0000078FB530A000 50] iPhone11ProMax, [0000078FB5292BC0][0000078FB530C800 50] iPhoneSE2, [0000078FB5297380][0000078FB52F2800 50] iPhone12Mini, [0000078FB5294EC0][0000078FB5330000 50] iPhone12, [0000078FB5296AC0][0000078FB5335000 50] iPhone12Pro, [0000078FB52901C0][0000078FB5337800 50] iPhone12ProMax, [0000078FB5290380][0000078FB533A000 50] iPhone13Mini, [0000078FB5296E40][0000078FB533C800 50] iPhone13, [0000078FB5294980][0000078FB5302800 50] iPhone13Pro, [0000078FB5297C40][0000078FB5340000 50] iPhone13ProMax, [0000078FB5290A80][0000078FB5345000 50] iPadPro105, [0000078FB5296200][0000078FB5347800 50] iPadPro129, [0000078FB5292D80][0000078FB534A000 50] iPadPro97, [0000078FB52971C0][0000078FB534C800 50] iPadPro2_129, [0000078FB5293640][0000078FB5332800 50] iPad5, [0000078FB5298340][0000078FB5350000 50] iPad6, [0000078FB5293480][0000078FB5355000 50] iPad7, [0000078FB5291C00][0000078FB5357800 50] iPad8, [0000078FB52932C0][0000078FB535A000 50] iPad9, [0000078FB5295E80][0000078FB535C800 50] iPadPro11, [0000078FB52916C0][0000078FB5342800 50] iPadPro2_11, [0000078FB5290540][0000078FB5360000 50] iPadPro3_11, [0000078FB52963C0][0000078FB5365000 50] iPadPro3_129, [0000078FB5292840][0000078FB5367800 50] iPadPro4_129, [0000078FB5291DC0][0000078FB536A000 50] iPadPro5_129, [0000078FB5290C40][0000078FB536C800 50] AppleTV, [0000078FB52908C0][0000078FB5352800 50] AppleTV4K, [0000078FB5296040][0000078FB5370000 50] TVOS, [0000078FB52924C0][0000078FB5377800 50] Mac, [0000078FB529AF00][0000078FB5375000 50] MacEditor, [0000078FB529A640][0000078FB537A000 50] MacClient, [0000078FB5296580][0000078FB537C800 50] MacServer, [0000078FB529A9C0][0000078FB5390000 50] Linux, [0000078FB529B0C0][0000078FB5392800 50] LinuxEditor, [0000078FB5298F80][0000078FB5397800 50] LinuxArm64Editor, [0000078FB529A480][0000078FB539A000 50] LinuxArm64, [0000078FB529A800][0000078FB539C800 50] LinuxClient, [0000078FB529B440][0000078FB5362800 50] LinuxArm64Client, [0000078FB5291340][0000078FB5395000 50] LinuxServer, [0000078FB529BB40][0000078FB5380000 50] LinuxArm64Server, [0000078FB5298DC0][0000078FB5385000 50] Android, [0000078FB5295B00][0000078FB5387800 50] Android_Preview_OpenGL, [0000078FB529A2C0][0000078FB538A000 50] Android_Preview_Vulkan, [0000078FB5296900][0000078FB538C800 50] Android_Low, [0000078FB529AB80][0000078FB5372800 50] Android_Mid, [0000078FB529A100][0000078FB53A0000 50] Android_High, [0000078FB5299680][0000078FB53A5000 50] Android_Default, [0000078FB529B600][0000078FB53A7800 50] Android_Adreno4xx, [0000078FB5297540][0000078FB53AA000 50] Android_Adreno5xx_Low, [0000078FB52947C0][0000078FB53AC800 50] Android_Adreno5xx, [0000078FB529B280][0000078FB5382800 50] Android_Adreno6xx, [0000078FB52986C0][0000078FB53B0000 50] Android_Adreno6xx_Vulkan, [0000078FB5290FC0][0000078FB53B5000 50] Android_Adreno7xx, [0000078FB529AD40][0000078FB53B7800 50] Android_Adreno7xx_Vulkan, [0000078FB5299BC0][0000078FB53BA000 50] Android_Mali_T6xx, [0000078FB529B7C0][0000078FB53BC800 50] Android_Mali_T7xx, [0000078FB5294B40][0000078FB53A2800 50] Android_Mali_T8xx, [0000078FB5299D80][0000078FB53C0000 50] Android_Mali_G71, [0000078FB5299140][0000078FB53C5000 50] Android_Mali_G72, [0000078FB529BEC0][0000078FB53C7800 50] Android_Mali_G72_Vulkan, [0000078FB529BD00][0000078FB53CA000 50] Android_Mali_G76, [0000078FB5297A80][0000078FB53CC800 50] Android_Mali_G76_Vulkan, [0000078FB52994C0][0000078FB53B2800 50] Android_Mali_G77, [0000078FB529C080][0000078FB53D0000 50] Android_Mali_G77_Vulkan, [0000078FB5299A00][0000078FB53D5000 50] Android_Mali_G78, [0000078FB5293F00][0000078FB53D7800 50] Android_Mali_G78_Vulkan, [0000078FB529C400][0000078FB53DA000 50] Android_Mali_G710, [0000078FB5299300][0000078FB53DC800 50] Android_Mali_G710_Vulkan, [0000078FB529CE80][0000078FB53C2800 50] Android_Xclipse_920, [0000078FB529CCC0][0000078FB53E0000 50] Android_Xclipse_920_Vulkan, [0000078FB529C940][0000078FB53E5000 50] Android_Vulkan_SM5, [0000078FB5299F40][0000078FB53E7800 50] Android_PowerVR_G6xxx, [0000078FB529D040][0000078FB53EA000 50] Android_PowerVR_GT7xxx, [0000078FB529C240][0000078FB53EC800 50] Android_PowerVR_GE8xxx, [0000078FB52978C0][0000078FB53D2800 50] Android_PowerVR_GM9xxx, [0000078FB5292A00][0000078FB53F0000 50] Android_PowerVR_GM9xxx_Vulkan, [0000078FB529DE40][0000078FB53F5000 50] Android_TegraK1, [0000078FB529DC80][0000078FB53F7800 50] Android_Unknown_Vulkan, [0000078FB529D900][0000078FB53FA000 50] Oculus_Quest, [0000078FB5296C80][0000078FB53FC800 50] Oculus_Quest2, [0000078FB529E000][0000078FB53E2800 50] HoloLens, 
+[2022.11.22-00.35.31:400][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.22-00.35.31:458][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.22-00.35.32:000][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.22-00.35.32:000][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.22-00.35.32:001][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.22-00.35.32:001][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.22-00.35.32:001][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.22-00.35.32:047][  0]LogNetVersion: VrMuseum 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3489408412)
+[2022.11.22-00.35.32:420][  0]LogSlate: Border
+[2022.11.22-00.35.32:421][  0]LogSlate: BreadcrumbButton
+[2022.11.22-00.35.32:421][  0]LogSlate: Default
+[2022.11.22-00.35.32:421][  0]LogSlate: Icons.Save
+[2022.11.22-00.35.32:421][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.22-00.35.32:421][  0]LogSlate: ListView
+[2022.11.22-00.35.32:421][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.22-00.35.32:421][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.22-00.35.32:421][  0]LogSlate: TableView.DarkRow
+[2022.11.22-00.35.32:421][  0]LogSlate: TableView.Row
+[2022.11.22-00.35.32:421][  0]LogSlate: TreeView
+[2022.11.22-00.35.32:976][  0]SourceControl: Source control is disabled
+[2022.11.22-00.35.33:081][  0]SourceControl: Source control is disabled
+[2022.11.22-00.35.33:081][  0]SourceControl: Source control is disabled
+[2022.11.22-00.35.33:499][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.22-00.35.33:537][  0]LogUObjectArray: 20625 objects as part of root set at end of initial load.
+[2022.11.22-00.35.33:537][  0]LogUObjectAllocator: 5604136 out of 0 bytes used by permanent object pool.
+[2022.11.22-00.35.33:537][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.22-00.35.34:768][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E57F01D1414D26B67F7B398A0246CF6A | Instance: 71EC33FD4DE8714D19BAB29C62EC1815 (DESKTOP-OG7EE4M-11832).
+[2022.11.22-00.35.34:895][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.22-00.35.34:907][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.22-00.35.34:978][  0]LogPython: Using Python 3.9.7
+[2022.11.22-00.35.38:522][  0]SourceControl: Source control is disabled
+[2022.11.22-00.35.38:530][  0]SourceControl: Source control is disabled
+[2022.11.22-00.35.38:551][  0]SourceControl: Source control is disabled
+[2022.11.22-00.35.38:576][  0]LogUProjectInfo: Found projects:
+[2022.11.22-00.35.38:999][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.22-00.35.39:182][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.22-00.35.39:234][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.22-00.35.39:234][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.22-00.35.39:697][  0]LogCollectionManager: Loaded 0 collections in 0.007338 seconds
+[2022.11.22-00.35.39:954][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/Collections/' took 0.00s
+[2022.11.22-00.35.39:954][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/Developers/Ciaran/Collections/' took 0.00s
+[2022.11.22-00.35.39:954][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/Collections/' took 0.00s
+[2022.11.22-00.35.39:954][  0]LogOcInput: OculusInput pre-init called
+[2022.11.22-00.35.41:293][  0]LogEngine: Initializing Engine...
+[2022.11.22-00.35.41:383][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.11.22-00.35.42:301][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.22-00.35.42:302][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.22-00.35.42:324][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-00.35.42:386][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.22-00.35.42:388][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.22-00.35.42:441][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.22-00.35.42:443][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.22-00.35.42:443][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.22-00.35.42:444][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.22-00.35.42:444][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.22-00.35.42:444][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-00.35.42:444][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-00.35.42:444][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-00.35.42:444][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-00.35.42:444][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.22-00.35.42:444][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-00.35.42:444][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.22-00.35.42:444][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-00.35.42:445][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.22-00.35.42:445][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.22-00.35.42:445][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-00.35.42:468][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-00.35.42:554][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.11.22-00.35.42:555][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-00.35.42:562][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-00.35.42:563][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-00.35.42:567][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.22-00.35.42:567][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.22-00.35.42:570][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.22-00.35.42:570][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.22-00.35.42:570][  0]LogInit: FAudioDevice initialized.
+[2022.11.22-00.35.42:570][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.22-00.35.42:571][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.22-00.35.42:571][  0]LogInit: Texture streaming: Enabled
+[2022.11.22-00.35.42:644][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.22-00.35.42:666][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.22-00.35.42:666][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={B693B014-4020-78AB-13A0-F9B44580A8FB}
+[2022.11.22-00.35.42:731][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.22-00.35.42:751][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.22-00.35.42:751][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.22-00.35.46:818][  0]LogLiveCoding: Display: First instance in process group "UE_VrMuseum_0xee56dd22", spawning console
+[2022.11.22-00.35.46:818][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.22-00.35.46:818][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.22-00.35.46:918][  0]LogInit: Transaction tracking system initialized
+[2022.11.22-00.35.47:111][  0]BlueprintLog: New page: Editor Load
+[2022.11.22-00.35.47:573][  0]LocalizationService: Localization service is disabled
+[2022.11.22-00.35.47:698][  0]TimingProfiler: Initialize
+[2022.11.22-00.35.47:699][  0]TimingProfiler: OnSessionChanged
+[2022.11.22-00.35.47:699][  0]LoadingProfiler: Initialize
+[2022.11.22-00.35.47:699][  0]LoadingProfiler: OnSessionChanged
+[2022.11.22-00.35.47:699][  0]NetworkingProfiler: Initialize
+[2022.11.22-00.35.47:699][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.22-00.35.47:699][  0]MemoryProfiler: Initialize
+[2022.11.22-00.35.47:700][  0]MemoryProfiler: OnSessionChanged
+[2022.11.22-00.35.49:212][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/' took 0.07s
+[2022.11.22-00.35.49:212][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.22-00.35.49:600][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.22-00.35.49:606][  0]SourceControl: Source control is disabled
+[2022.11.22-00.35.49:606][  0]LogUnrealEdMisc: Loading editor; pre map load, took 30.956
+[2022.11.22-00.35.49:606][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/VRTemplate/Maps/VRTemplateMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.22-00.35.49:608][  0]LightingResults: New page: Lighting Build
+[2022.11.22-00.35.49:621][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-00.35.49:621][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-00.35.49:621][  0]MapCheck: New page: Map Check
+[2022.11.22-00.35.49:621][  0]LightingResults: New page: Lighting Build
+[2022.11.22-00.35.49:643][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-00.35.49:650][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.11.22-00.35.50:927][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2022.11.22-00.35.50:928][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.22-00.35.50:928][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-00.35.50:929][  0]LogAIModule: Creating AISystem for world VRTemplateMap
+[2022.11.22-00.35.50:945][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.22-00.35.50:945][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.22-00.35.50:969][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.22-00.35.50:997][  0]LogRenderer: Warning: Deprectaed CVar r.BasePassOutputsVelocity is set to 0. Remove and use r.VelocityOutputPass instead.
+[2022.11.22-00.35.50:997][  0]LogRenderer: Warning: Deprectaed CVar r.VertexDeformationOutputsVelocity is set to 0. Remove and use r.Velocity.EnableVertexDeformation instead.
+[2022.11.22-00.35.51:010][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.11.22-00.35.51:011][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.22-00.35.51:011][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.562ms to complete.
+[2022.11.22-00.35.51:012][  0]LogFileHelpers: Loading map 'VRTemplateMap' took 1.405
+[2022.11.22-00.35.51:054][  0]LogUnrealEdMisc: Total Editor Startup Time, took 32.403
+[2022.11.22-00.35.51:054][  0]LogShaderCompilers: Display: ================================================
+[2022.11.22-00.35.51:054][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.22-00.35.51:054][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.22-00.35.51:054][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.22-00.35.51:054][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.22-00.35.51:054][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.22-00.35.51:054][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.22-00.35.51:054][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.22-00.35.51:054][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.22-00.35.51:054][  0]LogShaderCompilers: Display: ================================================
+[2022.11.22-00.35.51:264][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.22-00.35.51:269][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.22-00.35.51:269][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.22-00.35.51:309][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-00.35.51:336][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-00.35.51:361][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-00.35.51:386][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-00.35.51:814][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.22-00.35.51:815][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.22-00.35.51:817][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.22-00.35.51:817][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.22-00.35.51:819][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.22-00.35.51:819][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.22-00.35.51:821][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.22-00.35.51:821][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.22-00.35.51:823][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.22-00.35.51:824][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.22-00.35.51:825][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.22-00.35.51:826][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.22-00.35.51:827][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.22-00.35.51:827][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.22-00.35.51:829][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.22-00.35.51:829][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.22-00.35.51:831][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.22-00.35.51:831][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.22-00.35.51:833][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files (x86)/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.22-00.35.51:834][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.22-00.35.51:834][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files (x86)/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.22-00.35.52:319][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.22-00.35.52:652][  0]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.11.22-00.35.54:458][  0]LogSlate: Took 0.000662 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.22-00.35.54:466][  0]LogSlate: Took 0.000498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.22-00.35.54:476][  0]LogSlate: Took 0.000435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.22-00.35.54:603][  0]LogViewport: Scene viewport resized to 1125x858, mode Windowed.
+[2022.11.22-00.35.55:008][  0]LogProfilingDebugging: Allocated a 1125 x 858 texture for HMD canvas layer
+[2022.11.22-00.35.55:008][  0]LogStall: Startup...
+[2022.11.22-00.35.55:016][  0]LogStall: Startup complete.
+[2022.11.22-00.35.55:052][  0]LogLoad: (Engine Initialization) Total time: 36.40 seconds
+[2022.11.22-00.35.55:052][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.22-00.35.55:267][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.22-00.35.55:683][  1]LogAssetRegistry: Asset discovery search completed in 26.0528 seconds
+[2022.11.22-00.35.55:717][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.11.22-00.35.55:970][  2]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.22-00.35.56:506][  4]LogSlate: Took 0.000723 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.22-00.36.05:864][254]LogSlate: Took 0.000367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.22-00.36.05:878][254]LogSlate: Took 0.000495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.22-00.36.14:060][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.22-00.36.15:582][606]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2022.11.22-00.36.15:637][606]LogAssetEditorSubsystem: Opening Asset editor for World /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.GAE_BULGA_LEVEL
+[2022.11.22-00.36.15:637][606]Cmd: MAP LOAD FILE="../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.22-00.36.15:637][606]LightingResults: New page: Lighting Build
+[2022.11.22-00.36.15:638][606]LoadErrors: New page: Loading map: GAE_BULGA_LEVEL.umap
+[2022.11.22-00.36.15:642][606]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-00.36.15:642][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-00.36.15:642][606]MapCheck: New page: Map Check
+[2022.11.22-00.36.15:642][606]LightingResults: New page: Lighting Build
+[2022.11.22-00.36.15:664][606]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-00.36.15:730][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.11.22-00.36.15:745][606]LogWorld: UWorld::CleanupWorld for GAE_BULGA_LEVEL, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-00.36.15:747][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-00.36.15:891][606]LogSlate: Slate User Unregistered.  User Index 8
+[2022.11.22-00.36.15:891][606]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2022.11.22-00.36.15:895][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.11.22-00.36.15:929][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.22-00.36.16:289][606]LogAudio: Display: Audio Device (ID: 1) registered with world 'GAE_BULGA_LEVEL'.
+[2022.11.22-00.36.16:289][606]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.22-00.36.16:290][606]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-00.36.16:291][606]LogAIModule: Creating AISystem for world GAE_BULGA_LEVEL
+[2022.11.22-00.36.16:651][606]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2022.11.22-00.36.16:657][606]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.11.22-00.36.16:657][606]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 8 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.11.22-00.36.16:657][606]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.11.22-00.36.17:461][606]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.22-00.36.17:462][606]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=-100.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2022.11.22-00.36.17:520][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.11.22-00.36.17:545][606]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.22-00.36.17:546][606]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.443ms to complete.
+[2022.11.22-00.36.17:546][606]LogFileHelpers: Loading map 'GAE_BULGA_LEVEL' took 1.909
+[2022.11.22-00.36.17:684][607]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.
+[2022.11.22-00.36.24:315][832]MapCheck: New page: Map Check
+[2022.11.22-00.36.24:342][832]LogSlate: Took 0.000463 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.22-00.36.24:345][832]Cmd: MAP REBUILD ALLVISIBLE
+[2022.11.22-00.36.24:353][832]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.11.22-00.36.25:092][832]LogWorld: UWorld::CleanupWorld for GAE_BULGA_LEVEL, bSessionEnded=true, bCleanupResources=false
+[2022.11.22-00.36.25:143][832]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2022.11.22-00.36.25:201][832]LightingResults: New page: Lighting Build - 22 Nov 2022, 00:36:25
+[2022.11.22-00.36.33:867][832]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.11.22-00.36.34:028][832]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.11.22-00.36.34:062][832]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.11.22-00.36.35:094][832]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.11.22-00.36.35:094][832]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11832
+[2022.11.22-00.36.38:026][832]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.11.22-00.36.38:026][832]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.11.22-00.36.38:026][832]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.11.22-00.36.38:026][832]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.11.22-00.36.38:026][832]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.11.22-00.36.38:885][832]LogEditorBuildUtils: Build time 0:14
+[2022.11.22-00.36.39:443][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.11.22-00.36.41:009][841]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.
+[2022.11.22-00.37.17:780][517]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.17:780][517]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.18:456][519]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.18:456][519]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.22:153][530]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.22:153][530]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.24:168][536]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.24:168][536]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.25:510][540]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.25:510][540]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.25:849][541]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.25:849][541]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.28:201][548]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.28:201][548]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.28:867][550]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.28:867][550]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.29:871][553]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.29:871][553]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.29:871][553]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.29:872][553]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.29:885][554]LogDerivedDataCache: C:/Users/Ciaran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.364 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.22-00.37.31:879][559]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.31:879][559]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.33:899][565]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.33:899][565]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.34:569][567]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.34:570][567]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.35:580][570]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.35:580][570]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.36:253][572]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.36:253][572]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.37:915][577]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.37:915][577]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.37:915][577]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.37:915][577]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.40:617][585]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.40:617][585]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.42:305][628]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.42:305][628]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.44:041][685]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.44:041][685]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.45:602][735]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.45:602][735]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.49:994][880]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.49:994][880]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.50:741][905]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.50:741][905]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.51:973][946]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.51:973][946]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.53:922][ 12]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.53:922][ 12]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.57:175][121]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.57:175][121]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.37.58:950][182]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.37.58:950][182]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.38.00:253][226]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.38.00:253][226]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.38.00:418][232]Job is a success!
+[2022.11.22-00.38.00:641][233]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.028s
+[2022.11.22-00.38.00:641][233]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.11.22-00.38.00:641][233]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.11.22-00.38.00:641][233]LogVolumetricLightmapImport:      Bricks at depth
+[2022.11.22-00.38.00:641][233]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2022.11.22-00.38.00:641][233]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2022.11.22-00.38.00:641][233]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.11.22-00.38.00:641][233]LogVolumetricLightmapImport:      Bricks in each level
+[2022.11.22-00.38.00:641][233]LogVolumetricLightmapImport:          GAE_BULGA_LEVEL 			 2 bricks 	 100.0% (Persistent Level)
+[2022.11.22-00.38.02:392][233]Lightmass on DESKTOP-OG7EE4M: 1:20 min total, 3.65 sec importing, 3.56 sec setup, 22.9 sec photons, 50.2 sec processing, 0 us extra exporting [294/294 mappings]. Threads: 12:33 min total, 10:13 min processing.
+[2022.11.22-00.38.02:393][233]LogStaticLightingSystem: GAE_BULGA_LEVEL_BuiltData storing lightmap data for 262 meshes in 9 LightmapResourceClusters (29.1 Meshes per cluster).
+[2022.11.22-00.38.02:411][233]LogMaterial: Display: Material /Game/Models/environment/mossybark04.mossybark04 needed to have new flag set bUsedWithStaticLighting !
+[2022.11.22-00.38.02:507][233]LogMaterial: Display: Missing cached shadermap for mossybark04 in PCD3D_SM5, Default, SM5 (DDC key hash: 4C22E8D6EF73ECE31DC5AC8AE7F48BA9BCF1E2B3), compiling. 
+[2022.11.22-00.38.02:915][233]LogMaterial: Display: Material /Game/Models/environment/leaf_maple.leaf_maple needed to have new flag set bUsedWithStaticLighting !
+[2022.11.22-00.38.02:941][233]LogMaterial: Display: Missing cached shadermap for leaf_maple in PCD3D_SM5, Default, SM5 (DDC key hash: 5D03A12A5DF51C01CEAFCBD842BAD9C74490E553), compiling. 
+[2022.11.22-00.38.03:437][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.22-00.38.03:459][233]LogStaticLightingSystem: Illumination: 1:38 min (202 ms encoding lightmaps, 625 ms encoding shadowmaps)
+[2022.11.22-00.38.03:459][233]LogStaticLightingSystem: Lightmap texture memory:  4.5 MB (4.5 MB streaming, 0.0 MB non-streaming), 10 textures
+[2022.11.22-00.38.03:459][233]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.11.22-00.38.08:109][233]DumpUnbuiltLightIteractions
+[2022.11.22-00.38.08:109][233]Lights with unbuilt interactions: 0
+[2022.11.22-00.38.08:109][233]
+[2022.11.22-00.38.08:109][233]Primitives with unbuilt interactions: 0
+[2022.11.22-00.41.03:593][233]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2022.11.22-00.41.03:593][233]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' report submitted, and took 0.049930s
+[2022.11.22-00.41.03:593][233]LogShaderCompilers: Display: Worker (2/8) finished batch of 6 jobs in 62.035s, TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=21.500s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=19.008s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=5.651s], TBasePassVSFNoLightMapPolicy [WorkerTime=5.212s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=5.081s], TBasePassVSTLightMapPolicyLQ [WorkerTime=4.533s]
+[2022.11.22-00.41.03:593][233]LogShaderCompilers: Display: Worker (4/8) finished batch of 6 jobs in 74.570s, TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=20.448s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=19.169s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=18.878s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=5.757s], TBasePassVSFNoLightMapPolicy [WorkerTime=4.910s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=4.442s]
+[2022.11.22-00.41.03:593][233]LogShaderCompilers: Display: Worker (3/8) finished batch of 6 jobs in 85.472s, TBasePassPSFNoLightMapPolicySkylight [WorkerTime=20.282s], TBasePassPSTLightMapPolicyHQ [WorkerTime=18.461s], TBasePassPSFNoLightMapPolicy [WorkerTime=18.168s], TBasePassPSTLightMapPolicyLQ [WorkerTime=17.194s], TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=5.226s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=5.139s]
+[2022.11.22-00.41.03:593][233]LogShaderCompilers: Display: Worker (1/8) finished batch of 6 jobs in 85.599s, TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=20.616s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=19.390s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=19.036s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=18.354s], FDebugViewModeVS [WorkerTime=3.598s], FDebugViewModePS [WorkerTime=3.579s]
+[2022.11.22-00.41.03:593][233]LogShaderCompilers: Display: Worker (6/8) finished batch of 6 jobs in 88.574s, TBasePassPSTLightMapPolicyLQ [WorkerTime=19.406s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=18.888s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=18.657s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=18.274s], TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=6.492s], TBasePassVSTLightMapPolicyHQ [WorkerTime=5.832s]
+[2022.11.22-00.41.03:593][233]LogShaderCompilers: Display: Worker (7/8) finished batch of 6 jobs in 100.192s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=20.646s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=19.518s], TBasePassPSTLightMapPolicyHQ [WorkerTime=18.701s], TBasePassPSFNoLightMapPolicy [WorkerTime=17.929s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=17.683s], FDebugViewModePS [WorkerTime=4.697s]
+[2022.11.22-00.41.03:594][233]LogShaderCompilers: Display: Worker (5/8) finished batch of 6 jobs in 102.861s, TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=20.427s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=19.401s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=19.384s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=19.188s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=18.602s], TBasePassVSTLightMapPolicyHQ [WorkerTime=4.794s]
+[2022.11.22-00.41.03:594][233]LogShaderCompilers: Display: Worker (8/8) finished batch of 10 jobs in 78.192s, TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=21.953s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=19.539s], TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=4.929s], FDebugViewModePS [WorkerTime=4.743s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=3.733s], TLightMapDensityVSTLightMapPolicyLQ [WorkerTime=2.939s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=1.284s], DepthNoColorOutputPipeline, DepthNoPixelPipeline, VelocityPipeline
+[2022.11.22-00.41.03:594][233]LogShaderCompilers: Display: Worker (6/8) finished batch of 6 jobs in 66.540s, TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=19.646s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=19.040s], TBasePassPSFNoLightMapPolicy [WorkerTime=17.520s], TLightMapDensityVSFNoLightMapPolicy [WorkerTime=3.910s], TLightMapDensityVSFNoLightMapPolicy [WorkerTime=3.098s], FHitProxyVS [WorkerTime=2.909s]
+[2022.11.22-00.41.03:594][233]LogShaderCompilers: Display: Worker (2/8) finished batch of 10 jobs in 96.710s, TBasePassPSFNoLightMapPolicySkylight [WorkerTime=20.004s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=19.392s], TBasePassPSTLightMapPolicyHQSkylight [WorkerTime=18.452s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=18.417s], TBasePassVSFNoLightMapPolicy [WorkerTime=5.644s], TBasePassVSTLightMapPolicyLQ [WorkerTime=4.978s], FDebugViewModeVS [WorkerTime=3.751s], TLightMapDensityVSTLightMapPolicyHQ [WorkerTime=3.048s], TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect [WorkerTime=1.443s], TLightMapDensityPSTLightMapPolicyLQ [WorkerTime=1.363s]
+[2022.11.22-00.41.03:594][233]LogShaderCompilers: Display: Worker (3/8) finished batch of 8 jobs in 95.119s, TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=20.269s], TBasePassPSTLightMapPolicyHQ [WorkerTime=19.520s], TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=18.431s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=17.753s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=9.169s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=5.038s], TShadowDepthVSVertexShadowDepth_OutputDepth [WorkerTime=3.395s], TLightMapDensityPSFDummyLightMapPolicy [WorkerTime=1.431s]
+[2022.11.22-00.41.03:653][233]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.005205s (168.037572s overbudget)
+[2022.11.22-00.41.03:726][233]LogShaderCompilers: Display: ================================================
+[2022.11.22-00.41.03:726][233]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Total job queries 134, among them cache hits 0 (0.00%)
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Tracking 134 distinct input hashes that result in 99 distinct outputs (73.88%)
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: RAM used: 0.51 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Shaders Compiled: 134
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Jobs assigned 134, completed 134 (100.00%)
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Time job spent in pending queue: average 62.83 s, longest 158.78 s
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Job execution time: average 63.39 s, max 102.86 s
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Job life time (pending + execution): average 126.22 s, max 180.20
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 180.67 s
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 4.47 jobs/batch
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Average processing rate: 0.74 jobs/sec
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Effective parallelization: 7.31 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.22-00.41.03:727][233]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.22-00.41.03:728][233]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 20.01 sec, max 21.95 sec, min 19.17 sec)
+[2022.11.22-00.41.03:728][233]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 19.95 sec, max 20.62 sec, min 19.01 sec)
+[2022.11.22-00.41.03:728][233]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 19.87 sec, max 20.65 sec, min 19.18 sec)
+[2022.11.22-00.41.03:728][233]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    4 times, average 19.22 sec, max 21.50 sec, min 18.27 sec)
+[2022.11.22-00.41.03:728][233]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 19.20 sec, max 19.52 sec, min 18.70 sec)
+[2022.11.22-00.41.03:728][233]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.22-00.41.03:728][233]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 6.06% of total time (compiled    4 times, average 20.01 sec, max 21.95 sec, min 19.17 sec)
+[2022.11.22-00.41.03:728][233]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 6.04% of total time (compiled    4 times, average 19.95 sec, max 20.62 sec, min 19.01 sec)
+[2022.11.22-00.41.03:728][233]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.02% of total time (compiled    4 times, average 19.87 sec, max 20.65 sec, min 19.18 sec)
+[2022.11.22-00.41.03:728][233]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 5.82% of total time (compiled    4 times, average 19.22 sec, max 21.50 sec, min 18.27 sec)
+[2022.11.22-00.41.03:728][233]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 5.82% of total time (compiled    4 times, average 19.20 sec, max 19.52 sec, min 18.70 sec)
+[2022.11.22-00.41.03:728][233]LogShaderCompilers: Display: ================================================
+[2022.11.22-00.41.03:853][234]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.11.22-00.41.03:853][234]MapCheck: New page: GAE_BULGA_LEVEL - 22 Nov 2022, 00:41:03
+[2022.11.22-00.41.03:859][234]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.94ms to complete.
+[2022.11.22-00.49.17:798][849]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.11.22-00.49.17:821][849]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.013387 seconds
+[2022.11.22-00.49.18:501][849]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_Auto1
+[2022.11.22-00.49.18:502][849]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/GAE_BULGA_LEVEL_Auto1E81421F34CE29C4230BDC3A809F027B0.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/Autosaves/Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_Auto1.umap'
+[2022.11.22-00.49.18:526][849]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL' took 0.748
+[2022.11.22-00.49.18:526][849]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.748
+[2022.11.22-00.49.18:526][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/environment/leaf_maple] ([1] browsable assets)...
+[2022.11.22-00.49.18:556][849]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/environment/leaf_maple.leaf_maple]
+[2022.11.22-00.49.18:556][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/environment/leaf_maple]
+[2022.11.22-00.49.18:565][849]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/environment/leaf_maple_Auto1
+[2022.11.22-00.49.18:566][849]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/leaf_maple_Auto16B7B31774CE27E23F8C1AF810062E5C9.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/Autosaves/Game/Models/environment/leaf_maple_Auto1.uasset'
+[2022.11.22-00.49.18:568][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/environment/mossybark04] ([1] browsable assets)...
+[2022.11.22-00.49.18:584][849]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Models/environment/mossybark04.mossybark04]
+[2022.11.22-00.49.18:584][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/environment/mossybark04]
+[2022.11.22-00.49.18:589][849]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/environment/mossybark04_Auto1
+[2022.11.22-00.49.18:589][849]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/mossybark04_Auto17357A6D3459F2551216559A7C151FC31.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/Autosaves/Game/Models/environment/mossybark04_Auto1.uasset'
+[2022.11.22-00.49.18:591][849]LogFileHelpers: Auto-saving content packages took 0.066
+[2022.11.22-00.51.42:052][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.11.22-00.51.48:346][279]LogSlate: Window 'Save Content' being destroyed
+[2022.11.22-00.52.19:787][643]LogViewport: Scene viewport resized to 1122x858, mode Windowed.
+[2022.11.22-00.52.19:841][644]LogViewport: Scene viewport resized to 1102x858, mode Windowed.
+[2022.11.22-00.52.19:896][645]LogViewport: Scene viewport resized to 1083x858, mode Windowed.
+[2022.11.22-00.52.19:970][646]LogViewport: Scene viewport resized to 1033x858, mode Windowed.
+[2022.11.22-00.52.20:043][647]LogViewport: Scene viewport resized to 982x858, mode Windowed.
+[2022.11.22-00.52.20:122][648]LogViewport: Scene viewport resized to 918x858, mode Windowed.
+[2022.11.22-00.52.20:183][649]LogViewport: Scene viewport resized to 862x858, mode Windowed.
+[2022.11.22-00.52.20:242][650]LogViewport: Scene viewport resized to 831x858, mode Windowed.
+[2022.11.22-00.52.20:300][651]LogViewport: Scene viewport resized to 827x858, mode Windowed.
+[2022.11.22-00.52.20:456][658]LogViewport: Scene viewport resized to 824x858, mode Windowed.
+[2022.11.22-00.52.20:502][659]LogViewport: Scene viewport resized to 817x858, mode Windowed.
+[2022.11.22-00.52.20:553][660]LogViewport: Scene viewport resized to 800x858, mode Windowed.
+[2022.11.22-00.52.20:600][661]LogViewport: Scene viewport resized to 780x858, mode Windowed.
+[2022.11.22-00.52.20:655][662]LogViewport: Scene viewport resized to 766x858, mode Windowed.
+[2022.11.22-00.52.20:812][669]LogViewport: Scene viewport resized to 772x858, mode Windowed.
+[2022.11.22-00.52.20:863][670]LogViewport: Scene viewport resized to 780x858, mode Windowed.
+[2022.11.22-00.52.20:912][671]LogViewport: Scene viewport resized to 781x858, mode Windowed.
+[2022.11.22-00.55.55:927][760]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.11.22-00.55.59:784][919]LogViewport: Scene viewport resized to 780x858, mode Windowed.
+[2022.11.22-00.55.59:835][920]LogViewport: Scene viewport resized to 811x858, mode Windowed.
+[2022.11.22-00.55.59:890][921]LogViewport: Scene viewport resized to 855x858, mode Windowed.
+[2022.11.22-00.55.59:948][922]LogViewport: Scene viewport resized to 916x858, mode Windowed.
+[2022.11.22-00.56.00:017][923]LogViewport: Scene viewport resized to 1018x858, mode Windowed.
+[2022.11.22-00.56.00:115][924]LogViewport: Scene viewport resized to 1194x858, mode Windowed.
+[2022.11.22-00.56.00:211][925]LogViewport: Scene viewport resized to 1380x858, mode Windowed.
+[2022.11.22-00.56.00:277][926]LogViewport: Scene viewport resized to 1391x858, mode Windowed.
+[2022.11.22-00.56.00:406][928]LogViewport: Scene viewport resized to 1400x858, mode Windowed.
+[2022.11.22-00.56.14:696][428]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/environment/simtreemetric.simtreemetric
+[2022.11.22-00.56.14:773][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-00.56.14:852][428]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.11.22-00.56.16:043][428]LogViewport: Scene viewport resized to 923x517, mode Windowed.
+[2022.11.22-00.56.18:442][489]LogViewport: Scene viewport resized to 1403x858, mode Windowed.
+[2022.11.22-00.56.18:506][489]LogSlate: Took 0.002392 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.22-00.57.13:363][276]LogSavePackage: Moving output files for package: /Game/Models/environment/simtreemetric
+[2022.11.22-00.57.13:365][276]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/simtreemetric6542899A41E86D9F27E9F3B209C44650.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/Models/environment/simtreemetric.uasset'
+[2022.11.22-00.57.13:395][276]AssetCheck: New page: Asset Save: simtreemetric
+[2022.11.22-00.57.13:396][276]LogContentValidation: Display: Validating StaticMesh /Game/Models/environment/simtreemetric.simtreemetric
+[2022.11.22-00.57.28:272][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.11.22-00.57.28:341][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.22-00.57.28:984][645]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL
+[2022.11.22-00.57.28:986][645]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/GAE_BULGA_LEVELC162F0474626BFC5D3B1FC826E2693FA.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.umap'
+[2022.11.22-00.57.29:137][645]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData
+[2022.11.22-00.57.30:110][645]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData
+[2022.11.22-00.57.30:112][645]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/GAE_BULGA_LEVEL_BuiltData2E23FAFA4BD29AC402F89F9BECC69629.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.uasset'
+[2022.11.22-00.57.30:115][645]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData
+[2022.11.22-00.57.30:115][645]LogFileHelpers: Saving map 'GAE_BULGA_LEVEL' took 1.799
+[2022.11.22-00.57.31:081][645]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData
+[2022.11.22-00.57.31:083][645]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/GAE_BULGA_LEVEL_BuiltDataB341AE4245A23AE10B4CA0819FB44039.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.uasset'
+[2022.11.22-00.57.31:090][645]LogSavePackage: Moving output files for package: /Game/Models/environment/leaf_maple
+[2022.11.22-00.57.31:092][645]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/leaf_mapleD76639F84F862AE3B258BA85F33D86D4.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/Models/environment/leaf_maple.uasset'
+[2022.11.22-00.57.31:098][645]LogSavePackage: Moving output files for package: /Game/Models/environment/mossybark04
+[2022.11.22-00.57.31:100][645]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/mossybark04F556F23C4DC0E6A82182D29173F9574C.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/Models/environment/mossybark04.uasset'
+[2022.11.22-00.57.31:121][645]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-00.57.31:121][645]LogContentValidation: Display: Validating Material /Game/Models/environment/leaf_maple.leaf_maple
+[2022.11.22-00.57.31:121][645]LogContentValidation: Display: Validating Material /Game/Models/environment/mossybark04.mossybark04
+[2022.11.22-00.57.31:121][645]LogContentValidation: Display: Validating World /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.GAE_BULGA_LEVEL
+[2022.11.22-00.57.31:121][645]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.GAE_BULGA_LEVEL_BuiltData
+[2022.11.22-00.57.33:536][727]MapCheck: New page: Map Check
+[2022.11.22-00.57.33:569][727]Cmd: MAP REBUILD ALLVISIBLE
+[2022.11.22-00.57.33:570][727]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.11.22-00.57.34:289][727]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.11.22-00.57.34:289][727]LogWorld: UWorld::CleanupWorld for GAE_BULGA_LEVEL, bSessionEnded=true, bCleanupResources=false
+[2022.11.22-00.57.34:323][727]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2022.11.22-00.57.34:381][727]LightingResults: New page: Lighting Build - 22 Nov 2022, 00:57:34
+[2022.11.22-00.57.34:648][727]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.11.22-00.57.34:662][727]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.11.22-00.57.34:662][727]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.11.22-00.57.34:664][727]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.11.22-00.57.34:664][727]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11832
+[2022.11.22-00.57.39:357][727]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.11.22-00.57.39:357][727]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.11.22-00.57.39:357][727]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.11.22-00.57.39:357][727]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.11.22-00.57.39:357][727]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.11.22-00.57.40:521][727]LogEditorBuildUtils: Build time 0:06
+[2022.11.22-00.57.41:185][736]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer mossybark04 in PCD3D_SM5, Default, SM5 (DDC key hash: ACED874911CCA0E842EEC2AF3582E22E59AE151A), compiling. 
+[2022.11.22-00.57.41:234][736]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer mossybark04 in PCD3D_SM5, Default, SM5 (DDC key hash: 905764F3FA50865E06F6D059E90154D34AD80D11), compiling. 
+[2022.11.22-00.57.41:301][737]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer leaf_maple in PCD3D_SM5, Default, SM5 (DDC key hash: 4124A4D5A8F0891D3C87562707EB89A32DADCC4A), compiling. 
+[2022.11.22-00.57.41:350][737]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer leaf_maple in PCD3D_SM5, Default, SM5 (DDC key hash: 3BE1D3C3F9B49257EBA21C48C52D1E9F5DDED64C), compiling. 
+[2022.11.22-00.57.41:389][737]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer leaf_maple in PCD3D_SM5, Default, SM5 (DDC key hash: D67877395D097701350B00D04E4E05F26F021E0C), compiling. 
+[2022.11.22-00.57.50:580][738]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' exceeded budget of 2.000000s
+[2022.11.22-00.57.50:580][738]LogStall: Stall detector 'FShaderCompilingManager::BlockOnAllShaderMapCompletion' complete in 0.001034s (7.059963s overbudget)
+[2022.11.22-00.57.50:683][738]LogShaderCompilers: Display: ================================================
+[2022.11.22-00.57.50:683][738]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.22-00.57.50:683][738]LogShaderCompilers: Display: Total job queries 144, among them cache hits 0 (0.00%)
+[2022.11.22-00.57.50:683][738]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 103 distinct outputs (71.53%)
+[2022.11.22-00.57.50:683][738]LogShaderCompilers: Display: RAM used: 0.51 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2022.11.22-00.57.50:683][738]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.22-00.57.50:683][738]LogShaderCompilers: Display: Shaders Compiled: 138
+[2022.11.22-00.57.50:683][738]LogShaderCompilers: Display: Jobs assigned 144, completed 144 (100.00%)
+[2022.11.22-00.57.50:683][738]LogShaderCompilers: Display: Average time worker was idle: 251.82 s
+[2022.11.22-00.57.50:683][738]LogShaderCompilers: Display: Time job spent in pending queue: average 58.57 s, longest 158.78 s
+[2022.11.22-00.57.50:683][738]LogShaderCompilers: Display: Job execution time: average 59.38 s, max 102.86 s
+[2022.11.22-00.57.50:683][738]LogShaderCompilers: Display: Job life time (pending + execution): average 117.95 s, max 180.20
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 190.03 s
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 3.60 jobs/batch
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display: Average processing rate: 0.76 jobs/sec
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display: Effective parallelization: 7.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 20.01 sec, max 21.95 sec, min 19.17 sec)
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 19.95 sec, max 20.62 sec, min 19.01 sec)
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 19.87 sec, max 20.65 sec, min 19.18 sec)
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    4 times, average 19.22 sec, max 21.50 sec, min 18.27 sec)
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 19.20 sec, max 19.52 sec, min 18.70 sec)
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.80% of total time (compiled    9 times, average 10.32 sec, max 18.68 sec, min 2.41 sec)
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 5.86% of total time (compiled    4 times, average 20.01 sec, max 21.95 sec, min 19.17 sec)
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 5.84% of total time (compiled    4 times, average 19.95 sec, max 20.62 sec, min 19.01 sec)
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.82% of total time (compiled    4 times, average 19.87 sec, max 20.65 sec, min 19.18 sec)
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 5.63% of total time (compiled    4 times, average 19.22 sec, max 21.50 sec, min 18.27 sec)
+[2022.11.22-00.57.50:684][738]LogShaderCompilers: Display: ================================================
+[2022.11.22-00.57.50:706][739]LogProfilingDebugging: Allocated a 1400 x 858 texture for HMD canvas layer
+[2022.11.22-00.57.50:706][739]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.
+[2022.11.22-00.57.51:797][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.11.22-00.58.34:968][899]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.34:968][899]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.36:317][903]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.36:317][903]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.38:990][911]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.38:990][911]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.39:994][914]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.39:994][914]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.41:673][919]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.41:673][919]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.42:004][920]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.42:004][920]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.44:359][927]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.44:359][927]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.46:390][933]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.46:390][933]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.47:387][936]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.47:387][936]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.47:731][937]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.47:731][937]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.49:399][942]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.49:399][942]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.51:761][949]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.51:761][949]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.53:878][955]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.53:878][955]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.54:180][956]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.54:181][956]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.54:484][957]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.54:484][957]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.55:838][961]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.55:839][961]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.58.55:841][961]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.58.55:842][961]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.59.00:826][976]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.59.00:826][976]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.59.03:517][984]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.59.03:517][984]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.59.03:517][984]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.59.03:517][984]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.59.08:554][999]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.59.08:554][999]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.59.08:968][  0]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.59.08:969][  0]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.59.11:283][  7]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.59.11:283][  7]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.59.12:956][ 12]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.59.12:956][ 12]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.59.15:970][ 21]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.59.15:971][ 21]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.59.16:307][ 22]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.59.16:308][ 22]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.59.18:726][ 29]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.59.18:727][ 29]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.59.18:727][ 29]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-00.59.18:727][ 29]LightingResults: simtreemetric Lightmap UV are overlapping by 52.0%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-00.59.19:007][ 30]Job is a success!
+[2022.11.22-00.59.19:569][ 31]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.034s
+[2022.11.22-00.59.19:569][ 31]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.11.22-00.59.19:569][ 31]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.11.22-00.59.19:569][ 31]LogVolumetricLightmapImport:      Bricks at depth
+[2022.11.22-00.59.19:569][ 31]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2022.11.22-00.59.19:569][ 31]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2022.11.22-00.59.19:570][ 31]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.11.22-00.59.19:570][ 31]LogVolumetricLightmapImport:      Bricks in each level
+[2022.11.22-00.59.19:570][ 31]LogVolumetricLightmapImport:          GAE_BULGA_LEVEL 			 2 bricks 	 100.0% (Persistent Level)
+[2022.11.22-00.59.21:451][ 31]Lightmass on DESKTOP-OG7EE4M: 1:25 min total, 10.4 sec importing, 3.01 sec setup, 21.3 sec photons, 50.9 sec processing, 0 us extra exporting [294/294 mappings]. Threads: 12:44 min total, 10:41 min processing.
+[2022.11.22-00.59.21:455][ 31]LogStaticLightingSystem: GAE_BULGA_LEVEL_BuiltData storing lightmap data for 262 meshes in 9 LightmapResourceClusters (29.1 Meshes per cluster).
+[2022.11.22-00.59.21:574][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.11.22-00.59.21:594][ 31]LogStaticLightingSystem: Illumination: 1:46 min (225 ms encoding lightmaps, 719 ms encoding shadowmaps)
+[2022.11.22-00.59.21:594][ 31]LogStaticLightingSystem: Lightmap texture memory:  4.5 MB (4.5 MB streaming, 0.0 MB non-streaming), 10 textures
+[2022.11.22-00.59.21:594][ 31]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.11.22-00.59.27:488][ 31]DumpUnbuiltLightIteractions
+[2022.11.22-00.59.27:488][ 31]Lights with unbuilt interactions: 0
+[2022.11.22-00.59.27:488][ 31]
+[2022.11.22-00.59.27:488][ 31]Primitives with unbuilt interactions: 0
+[2022.11.22-00.59.27:529][ 32]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.11.22-00.59.27:529][ 32]MapCheck: New page: GAE_BULGA_LEVEL - 22 Nov 2022, 00:59:27
+[2022.11.22-00.59.27:532][ 32]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.108ms to complete.
+[2022.11.22-00.59.49:307][388]LogSlate: Window 'Content Browser' being destroyed
+[2022.11.22-00.59.49:312][388]LogSlate: Window 'Content Browser' being destroyed
+[2022.11.22-00.59.50:314][391]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.22-00.59.50:319][391]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.22-00.59.55:098][394]LogSlate: Window 'Message' being destroyed
+[2022.11.22-00.59.55:134][394]Message dialog closed, result: Yes, title: Message, text: Would you like to apply level of detail changes to simtreemetric?
+
+(No will lose all changes!)
+[2022.11.22-00.59.55:162][394]LogStaticMesh: Display: Building static mesh simtreemetric...
+[2022.11.22-00.59.55:162][394]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/environment/simtreemetric) ...
+[2022.11.22-00.59.57:001][394]LogStaticMesh: Built static mesh [1.74s] /Game/Models/environment/simtreemetric.simtreemetric
+[2022.11.22-00.59.57:001][394]LogStaticMesh: Warning: simtreemetric has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.11.22-00.59.57:001][394]LogStaticMesh: Warning: simtreemetric has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.11.22-00.59.57:609][394]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/environment/simtreemetric) ...
+[2022.11.22-00.59.57:808][394]LogSlate: Window 'simtreemetric' being destroyed
+[2022.11.22-00.59.57:812][394]LogSlate: Window 'simtreemetric' being destroyed
+[2022.11.22-00.59.57:965][394]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-00.59.57:965][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-01.00.07:925][736]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-01.00.07:942][736]LogSlate: Window 'Message Log' being destroyed
+[2022.11.22-01.00.13:732][982]MapCheck: New page: Map Check
+[2022.11.22-01.00.13:774][982]Cmd: MAP REBUILD ALLVISIBLE
+[2022.11.22-01.00.13:776][982]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.11.22-01.00.14:485][982]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.11.22-01.00.14:486][982]LogWorld: UWorld::CleanupWorld for GAE_BULGA_LEVEL, bSessionEnded=true, bCleanupResources=false
+[2022.11.22-01.00.14:516][982]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2022.11.22-01.00.14:607][982]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.11.22-01.00.14:607][982]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.11.22-01.00.14:607][982]LogNavigationDataBuild: Display:    Building navigation data using WITH_CHAOS.
+[2022.11.22-01.00.14:611][982]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.11.22-01.00.14:612][982]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=0.000 Y=0.000 Z=-300.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2022.11.22-01.00.14:641][982]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.
+[2022.11.22-01.00.14:642][982]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.03s
+[2022.11.22-01.00.14:673][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.22-01.00.15:875][982]LogLevel: Display: Export Material TexCoord Scales took 1.195 seconds.
+[2022.11.22-01.00.15:882][982]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2022.11.22-01.00.15:904][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.11.22-01.00.15:908][982]LightingResults: New page: Lighting Build - 22 Nov 2022, 01:00:15
+[2022.11.22-01.00.16:172][982]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.11.22-01.00.16:184][982]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.11.22-01.00.16:184][982]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.11.22-01.00.16:186][982]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.11.22-01.00.16:186][982]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11832
+[2022.11.22-01.00.20:765][982]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.11.22-01.00.20:765][982]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.11.22-01.00.20:765][982]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.11.22-01.00.20:765][982]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.11.22-01.00.20:765][982]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.11.22-01.00.22:013][982]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.11.22-01.00.22:013][982]MapCheck: New page: GAE_BULGA_LEVEL - 22 Nov 2022, 01:00:22
+[2022.11.22-01.00.22:014][982]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2022.11.22-01.00.22:015][982]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.422ms to complete.
+[2022.11.22-01.00.22:015][982]LogEditorBuildUtils: Build time 0:08
+[2022.11.22-01.00.22:669][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.11.22-01.01.00:929][319]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.00:929][319]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.02:265][323]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.02:265][323]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.05:289][332]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.05:289][332]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.06:639][336]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.06:639][336]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.08:645][342]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.08:645][342]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.10:990][349]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.10:990][349]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.10:990][349]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.10:990][349]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.12:338][353]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.12:338][353]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.14:006][358]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.14:006][358]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.14:349][359]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.14:349][359]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.16:029][364]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.16:029][364]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.18:371][371]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.18:371][371]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.19:041][373]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.19:041][373]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.21:044][379]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.21:044][379]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.21:384][380]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.21:384][380]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.21:384][380]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.21:384][380]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.22:714][384]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.22:714][384]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.24:734][390]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.24:734][390]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.27:407][398]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.27:407][398]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.29:078][403]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.29:078][403]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.31:760][411]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.31:760][411]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.34:436][419]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.34:436][419]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.34:778][420]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.34:778][420]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.39:477][434]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.39:477][434]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.41:184][439]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.41:184][439]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.43:505][446]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.43:505][446]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.46:505][455]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.46:505][455]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.48:747][477]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.01.48:747][477]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.01.48:769][478]Job is a success!
+[2022.11.22-01.01.48:957][479]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.024s
+[2022.11.22-01.01.48:957][479]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.11.22-01.01.48:957][479]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.11.22-01.01.48:957][479]LogVolumetricLightmapImport:      Bricks at depth
+[2022.11.22-01.01.48:957][479]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2022.11.22-01.01.48:957][479]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2022.11.22-01.01.48:957][479]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.11.22-01.01.48:957][479]LogVolumetricLightmapImport:      Bricks in each level
+[2022.11.22-01.01.48:957][479]LogVolumetricLightmapImport:          GAE_BULGA_LEVEL 			 2 bricks 	 100.0% (Persistent Level)
+[2022.11.22-01.01.49:811][479]LogTexture: Display: Building textures: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.GAE_BULGA_LEVEL_BuiltData:HQ_Lightmap1_1 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.22-01.01.49:898][479]LogTexture: Display: Building textures: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.GAE_BULGA_LEVEL_BuiltData:LQ_Lightmap_1_1 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.22-01.01.49:959][479]LogTexture: Display: Building textures: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.GAE_BULGA_LEVEL_BuiltData:HQ_Lightmap1_2 (TFO_AutoDXT, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.22-01.01.50:022][479]LogTexture: Display: Building textures: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.GAE_BULGA_LEVEL_BuiltData:LQ_Lightmap_1_2 (TFO_DXT1, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.22-01.01.50:074][479]LogTexture: Display: Building textures: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.GAE_BULGA_LEVEL_BuiltData:HQ_Lightmap1_3 (TFO_AutoDXT, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.11.22-01.01.50:099][479]LogTexture: Display: Building textures: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.GAE_BULGA_LEVEL_BuiltData:LQ_Lightmap_1_3 (TFO_DXT1, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.11.22-01.01.50:122][479]LogTexture: Display: Building textures: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.GAE_BULGA_LEVEL_BuiltData:HQ_Lightmap0_5 (TFO_AutoDXT, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.11.22-01.01.50:124][479]LogTexture: Display: Building textures: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.GAE_BULGA_LEVEL_BuiltData:LQ_Lightmap_0_5 (TFO_DXT1, 128X128 X1X1) (Required Memory Estimate: 0.41666 MB), EncodeSpeed: Fast
+[2022.11.22-01.01.50:684][479]LogTexture: Display: Building textures: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.GAE_BULGA_LEVEL_BuiltData:ShadowMapTexture2D_11 (BGRA8, 1024X1024 X1X1) (Required Memory Estimate: 26.66666 MB), EncodeSpeed: Fast
+[2022.11.22-01.01.50:736][479]LogStaticLightingSystem: GAE_BULGA_LEVEL_BuiltData storing lightmap data for 262 meshes in 9 LightmapResourceClusters (29.1 Meshes per cluster).
+[2022.11.22-01.01.50:770][479]Lightmass on DESKTOP-OG7EE4M: 1:25 min total, 3.16 sec importing, 3.44 sec setup, 21.1 sec photons, 58.2 sec processing, 0 us extra exporting [294/294 mappings]. Threads: 14:33 min total, 10:53 min processing.
+[2022.11.22-01.01.50:827][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.11.22-01.01.50:846][479]LogStaticLightingSystem: Illumination: 1:34 min (487 ms encoding lightmaps, 590 ms encoding shadowmaps)
+[2022.11.22-01.01.50:846][479]LogStaticLightingSystem: Lightmap texture memory:  4.5 MB (4.5 MB streaming, 0.0 MB non-streaming), 10 textures
+[2022.11.22-01.01.50:846][479]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.11.22-01.01.55:869][479]DumpUnbuiltLightIteractions
+[2022.11.22-01.01.55:869][479]Lights with unbuilt interactions: 0
+[2022.11.22-01.01.55:869][479]
+[2022.11.22-01.01.55:869][479]Primitives with unbuilt interactions: 0
+[2022.11.22-01.01.55:869][479]LogShaderCompilers: Display: ================================================
+[2022.11.22-01.01.55:869][479]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.22-01.01.55:869][479]LogShaderCompilers: Display: Total job queries 144, among them cache hits 0 (0.00%)
+[2022.11.22-01.01.55:869][479]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 103 distinct outputs (71.53%)
+[2022.11.22-01.01.55:869][479]LogShaderCompilers: Display: RAM used: 0.51 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2022.11.22-01.01.55:869][479]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.22-01.01.55:869][479]LogShaderCompilers: Display: Shaders Compiled: 138
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display: Jobs assigned 144, completed 144 (100.00%)
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display: Average time worker was idle: 251.82 s
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display: Time job spent in pending queue: average 58.57 s, longest 158.78 s
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display: Job execution time: average 59.38 s, max 102.86 s
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display: Job life time (pending + execution): average 117.95 s, max 180.20
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 190.03 s
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 3.60 jobs/batch
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display: Average processing rate: 0.76 jobs/sec
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display: Effective parallelization: 7.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 20.01 sec, max 21.95 sec, min 19.17 sec)
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 19.95 sec, max 20.62 sec, min 19.01 sec)
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 19.87 sec, max 20.65 sec, min 19.18 sec)
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    4 times, average 19.22 sec, max 21.50 sec, min 18.27 sec)
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 19.20 sec, max 19.52 sec, min 18.70 sec)
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.80% of total time (compiled    9 times, average 10.32 sec, max 18.68 sec, min 2.41 sec)
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 5.86% of total time (compiled    4 times, average 20.01 sec, max 21.95 sec, min 19.17 sec)
+[2022.11.22-01.01.55:870][479]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 5.84% of total time (compiled    4 times, average 19.95 sec, max 20.62 sec, min 19.01 sec)
+[2022.11.22-01.01.55:871][479]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.82% of total time (compiled    4 times, average 19.87 sec, max 20.65 sec, min 19.18 sec)
+[2022.11.22-01.01.55:871][479]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 5.63% of total time (compiled    4 times, average 19.22 sec, max 21.50 sec, min 18.27 sec)
+[2022.11.22-01.01.55:871][479]LogShaderCompilers: Display: ================================================
+[2022.11.22-01.01.55:912][480]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.11.22-01.01.55:912][480]MapCheck: New page: GAE_BULGA_LEVEL - 22 Nov 2022, 01:01:55
+[2022.11.22-01.01.55:913][480]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.279ms to complete.
+[2022.11.22-01.02.03:448][758]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/environment/simtreemetric.simtreemetric
+[2022.11.22-01.02.03:504][758]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-01.02.04:438][758]LogViewport: Scene viewport resized to 924x519, mode Windowed.
+[2022.11.22-01.02.06:600][811]LogViewport: Scene viewport resized to 1403x858, mode Windowed.
+[2022.11.22-01.02.34:689][566]LogSavePackage: Moving output files for package: /Game/Models/environment/simtreemetric
+[2022.11.22-01.02.34:691][566]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/simtreemetricA15A772845566A2E0DA942B130B1620F.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/Models/environment/simtreemetric.uasset'
+[2022.11.22-01.02.34:709][566]AssetCheck: New page: Asset Save: simtreemetric
+[2022.11.22-01.02.34:709][566]LogContentValidation: Display: Validating StaticMesh /Game/Models/environment/simtreemetric.simtreemetric
+[2022.11.22-01.02.45:813][857]LogSavePackage: Moving output files for package: /Game/Models/environment/simtreemetric
+[2022.11.22-01.02.45:815][857]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/simtreemetric3EB045044A2B5F6F523231A669E21238.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/Models/environment/simtreemetric.uasset'
+[2022.11.22-01.02.45:838][857]AssetCheck: New page: Asset Save: simtreemetric
+[2022.11.22-01.02.45:838][857]LogContentValidation: Display: Validating StaticMesh /Game/Models/environment/simtreemetric.simtreemetric
+[2022.11.22-01.02.52:550][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.11.22-01.02.52:626][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.22-01.02.53:632][ 30]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL
+[2022.11.22-01.02.53:634][ 30]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/GAE_BULGA_LEVEL5E5AB97444A6D559734BB98CF3021C28.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.umap'
+[2022.11.22-01.02.53:670][ 30]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData
+[2022.11.22-01.02.54:755][ 30]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData
+[2022.11.22-01.02.54:756][ 30]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/GAE_BULGA_LEVEL_BuiltData2A11C6BC4EE9A4F4DC481F82740F3DBC.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.uasset'
+[2022.11.22-01.02.54:761][ 30]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData
+[2022.11.22-01.02.54:761][ 30]LogFileHelpers: Saving map 'GAE_BULGA_LEVEL' took 2.159
+[2022.11.22-01.02.55:791][ 30]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData
+[2022.11.22-01.02.55:792][ 30]LogSavePackage: Moving '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Saved/GAE_BULGA_LEVEL_BuiltData7956708C448E8361B734B2A8C0B98829.tmp' to '../../../../../../Users/Ciaran/Documents/algorythm repository/VR-Museum/VrMuseum/Content/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.uasset'
+[2022.11.22-01.02.55:818][ 30]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.22-01.02.55:818][ 30]LogContentValidation: Display: Validating World /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.GAE_BULGA_LEVEL
+[2022.11.22-01.02.55:818][ 30]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL_BuiltData.GAE_BULGA_LEVEL_BuiltData
+[2022.11.22-01.03.15:385][465]MapCheck: New page: Map Check
+[2022.11.22-01.03.15:413][465]Cmd: MAP REBUILD ALLVISIBLE
+[2022.11.22-01.03.15:414][465]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.11.22-01.03.16:147][465]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.11.22-01.03.16:147][465]LogWorld: UWorld::CleanupWorld for GAE_BULGA_LEVEL, bSessionEnded=true, bCleanupResources=false
+[2022.11.22-01.03.16:179][465]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2022.11.22-01.03.16:241][465]LightingResults: New page: Lighting Build - 22 Nov 2022, 01:03:16
+[2022.11.22-01.03.16:522][465]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.11.22-01.03.16:530][465]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.11.22-01.03.16:530][465]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.11.22-01.03.16:532][465]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.11.22-01.03.16:532][465]LogSwarmInterface: [TryOpenConnection] Local Process ID is 11832
+[2022.11.22-01.03.21:112][465]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.11.22-01.03.21:113][465]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.11.22-01.03.21:113][465]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.11.22-01.03.21:113][465]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.11.22-01.03.21:113][465]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.11.22-01.03.21:996][465]LogEditorBuildUtils: Build time 0:06
+[2022.11.22-01.03.22:732][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.11.22-01.03.24:624][474]LogNavigationDataBuild: Navigation data generation finished in /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.
+[2022.11.22-01.04.13:083][758]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.13:083][758]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.17:748][772]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.17:749][772]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.18:759][775]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.18:762][775]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.25:134][794]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.25:134][794]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.27:468][801]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.27:470][801]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.28:802][805]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.28:813][805]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.34:486][822]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.34:486][822]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.34:857][823]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.34:857][823]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.37:912][832]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.37:913][832]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.41:394][843]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.41:394][843]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.41:834][848]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.41:834][848]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.42:363][855]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.42:363][855]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.44:156][882]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.44:157][882]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.45:770][906]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.45:770][906]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.46:728][920]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.46:728][920]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.47:987][939]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.47:987][939]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.48:186][942]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.48:186][942]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.54:015][ 29]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.54:015][ 29]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.57:619][ 84]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.57:619][ 84]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.58:211][ 93]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.58:211][ 93]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.04.58:273][ 94]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.04.58:273][ 94]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.05.04:464][189]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.05.04:464][189]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.05.06:827][225]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.05.06:827][225]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.05.07:102][229]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.05.07:102][229]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.05.11:323][294]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.05.11:323][294]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.05.13:209][323]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.05.13:209][323]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.05.15:482][359]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.05.15:482][359]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.05.19:845][429]LightingResults: Warning: simtreemetric Object has overlapping UVs.
+[2022.11.22-01.05.19:845][429]LightingResults: simtreemetric Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2022.11.22-01.05.20:002][432]Job is a success!
+[2022.11.22-01.05.20:224][433]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.026s
+[2022.11.22-01.05.20:225][433]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.11.22-01.05.20:225][433]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.11.22-01.05.20:225][433]LogVolumetricLightmapImport:      Bricks at depth
+[2022.11.22-01.05.20:225][433]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2022.11.22-01.05.20:225][433]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2022.11.22-01.05.20:225][433]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.11.22-01.05.20:225][433]LogVolumetricLightmapImport:      Bricks in each level
+[2022.11.22-01.05.20:225][433]LogVolumetricLightmapImport:          GAE_BULGA_LEVEL 			 2 bricks 	 100.0% (Persistent Level)
+[2022.11.22-01.05.21:782][433]Lightmass on DESKTOP-OG7EE4M: 1:56 min total, 4.39 sec importing, 4.30 sec setup, 25.7 sec photons, 1:22 min processing, 0 us extra exporting [294/294 mappings]. Threads: 20:32 min total, 16:12 min processing.
+[2022.11.22-01.05.21:783][433]LogStaticLightingSystem: GAE_BULGA_LEVEL_BuiltData storing lightmap data for 262 meshes in 9 LightmapResourceClusters (29.1 Meshes per cluster).
+[2022.11.22-01.05.21:940][433]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2022.11.22-01.05.21:986][433]LogStaticLightingSystem: Illumination: 2:05 min (191 ms encoding lightmaps, 612 ms encoding shadowmaps)
+[2022.11.22-01.05.21:986][433]LogStaticLightingSystem: Lightmap texture memory:  4.5 MB (4.5 MB streaming, 0.0 MB non-streaming), 10 textures
+[2022.11.22-01.05.21:986][433]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.11.22-01.05.27:321][433]DumpUnbuiltLightIteractions
+[2022.11.22-01.05.27:321][433]Lights with unbuilt interactions: 0
+[2022.11.22-01.05.27:321][433]
+[2022.11.22-01.05.27:321][433]Primitives with unbuilt interactions: 0
+[2022.11.22-01.05.27:321][433]LogShaderCompilers: Display: ================================================
+[2022.11.22-01.05.27:321][433]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.22-01.05.27:321][433]LogShaderCompilers: Display: Total job queries 144, among them cache hits 0 (0.00%)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Tracking 144 distinct input hashes that result in 103 distinct outputs (71.53%)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: RAM used: 0.51 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Shaders Compiled: 138
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Jobs assigned 144, completed 144 (100.00%)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Average time worker was idle: 251.82 s
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Time job spent in pending queue: average 58.57 s, longest 158.78 s
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Job execution time: average 59.38 s, max 102.86 s
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Job life time (pending + execution): average 117.95 s, max 180.20
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 190.03 s
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 3.60 jobs/batch
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Average processing rate: 0.76 jobs/sec
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Effective parallelization: 7.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 20.01 sec, max 21.95 sec, min 19.17 sec)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 19.95 sec, max 20.62 sec, min 19.01 sec)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    4 times, average 19.87 sec, max 20.65 sec, min 19.18 sec)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    4 times, average 19.22 sec, max 21.50 sec, min 18.27 sec)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    4 times, average 19.20 sec, max 19.52 sec, min 18.70 sec)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.80% of total time (compiled    9 times, average 10.32 sec, max 18.68 sec, min 2.41 sec)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 5.86% of total time (compiled    4 times, average 20.01 sec, max 21.95 sec, min 19.17 sec)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 5.84% of total time (compiled    4 times, average 19.95 sec, max 20.62 sec, min 19.01 sec)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.82% of total time (compiled    4 times, average 19.87 sec, max 20.65 sec, min 19.18 sec)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 5.63% of total time (compiled    4 times, average 19.22 sec, max 21.50 sec, min 18.27 sec)
+[2022.11.22-01.05.27:322][433]LogShaderCompilers: Display: ================================================
+[2022.11.22-01.05.27:411][434]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.11.22-01.05.27:412][434]MapCheck: New page: GAE_BULGA_LEVEL - 22 Nov 2022, 01:05:27
+[2022.11.22-01.05.27:415][434]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.8ms to complete.
+[2022.11.22-01.05.40:688][730]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.11.22-01.05.40:728][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-01.05.40:728][730]PIE: New page: PIE session: GAE_BULGA_LEVEL (22 Nov 2022, 01:05:40)
+[2022.11.22-01.05.40:740][730]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.11.22-01.05.40:742][730]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.22-01.05.40:744][730]LogPlayLevel: Creating play world package: /Game/LevelPrototyping/LEVELS/UEDPIE_0_GAE_BULGA_LEVEL
+[2022.11.22-01.05.40:881][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.136444s)
+[2022.11.22-01.05.40:881][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.GAE_BULGA_LEVEL to /Game/LevelPrototyping/LEVELS/UEDPIE_0_GAE_BULGA_LEVEL.GAE_BULGA_LEVEL (0.136931s)
+[2022.11.22-01.05.40:881][730]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.22-01.05.40:882][730]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-01.05.40:882][730]LogAIModule: Creating AISystem for world GAE_BULGA_LEVEL
+[2022.11.22-01.05.40:883][730]LogPlayLevel: PIE: World Init took: (0.002832s)
+[2022.11.22-01.05.40:909][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.11.22-01.05.40:912][730]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.22-01.05.40:912][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-01.05.40:912][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-01.05.40:912][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-01.05.40:912][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-01.05.40:912][730]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.22-01.05.40:912][730]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-01.05.40:913][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.22-01.05.40:913][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-01.05.40:915][730]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.22-01.05.40:915][730]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.22-01.05.40:915][730]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-01.05.40:920][730]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-01.05.40:964][730]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.11.22-01.05.40:965][730]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-01.05.40:965][730]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-01.05.40:965][730]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-01.05.40:967][730]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.22-01.05.40:967][730]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.22-01.05.40:971][730]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.22-01.05.40:971][730]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.22-01.05.40:971][730]LogInit: FAudioDevice initialized.
+[2022.11.22-01.05.40:971][730]LogAudio: Display: Audio Device (ID: 2) registered with world 'GAE_BULGA_LEVEL'.
+[2022.11.22-01.05.41:003][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-01.05.41:031][730]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.22-01.05.41:071][730]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2022.11.22-01.05.41:081][730]LogWorld: Bringing World /Game/LevelPrototyping/LEVELS/UEDPIE_0_GAE_BULGA_LEVEL.GAE_BULGA_LEVEL up for play (max tick rate 0) at 2022.11.22-01.05.41
+[2022.11.22-01.05.41:103][730]LogWorld: Bringing up level for play took: 0.071361
+[2022.11.22-01.05.41:115][730]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.11.22-01.05.41:128][730]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.22-01.05.41:209][730]PIE: Server logged in
+[2022.11.22-01.05.41:223][730]PIE: Play in editor total start time 0.506 seconds.
+[2022.11.22-01.05.41:345][730]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.22-01.05.41:427][730]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.22-01.05.41:457][730]LogRenderer: Warning: Resizing VR buffer to 3648 by 1840
+[2022.11.22-01.05.43:009][765]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-01.05.43:009][765]LogWorld: BeginTearingDown for /Game/LevelPrototyping/LEVELS/UEDPIE_0_GAE_BULGA_LEVEL
+[2022.11.22-01.05.43:142][765]LogSlate: Window 'VrMuseum Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.78.0)' being destroyed
+[2022.11.22-01.05.43:156][765]LogWorld: UWorld::CleanupWorld for GAE_BULGA_LEVEL, bSessionEnded=true, bCleanupResources=true
+[2022.11.22-01.05.43:162][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-01.05.43:209][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.22-01.05.43:220][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.22-01.05.43:250][765]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.22-01.05.43:256][765]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2022.11.22-01.05.43:258][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.22-01.05.43:263][765]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.22-01.05.43:312][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.22-01.05.43:476][766]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.11.22-01.05.48:214][806]LogDebuggerCommands: Repeating last play command: VR Preview
+[2022.11.22-01.05.48:236][806]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.22-01.05.48:236][806]PIE: New page: PIE session: GAE_BULGA_LEVEL (22 Nov 2022, 01:05:48)
+[2022.11.22-01.05.48:236][806]LogPlayLevel: Creating play world package: /Game/LevelPrototyping/LEVELS/UEDPIE_0_GAE_BULGA_LEVEL
+[2022.11.22-01.05.48:361][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124619s)
+[2022.11.22-01.05.48:361][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LevelPrototyping/LEVELS/GAE_BULGA_LEVEL.GAE_BULGA_LEVEL to /Game/LevelPrototyping/LEVELS/UEDPIE_0_GAE_BULGA_LEVEL.GAE_BULGA_LEVEL (0.124825s)
+[2022.11.22-01.05.48:361][806]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.22-01.05.48:361][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.22-01.05.48:362][806]LogAIModule: Creating AISystem for world GAE_BULGA_LEVEL
+[2022.11.22-01.05.48:363][806]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2022.11.22-01.05.48:385][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.22-01.05.48:387][806]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.22-01.05.48:387][806]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.22-01.05.48:387][806]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.22-01.05.48:388][806]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.22-01.05.48:388][806]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.22-01.05.48:388][806]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.11.22-01.05.48:388][806]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.22-01.05.48:388][806]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.11.22-01.05.48:388][806]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.22-01.05.48:390][806]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2022.11.22-01.05.48:390][806]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2022.11.22-01.05.48:390][806]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.22-01.05.48:393][806]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.22-01.05.48:434][806]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2022.11.22-01.05.48:435][806]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.22-01.05.48:435][806]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.22-01.05.48:435][806]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.22-01.05.48:437][806]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.22-01.05.48:437][806]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.11.22-01.05.48:440][806]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.22-01.05.48:440][806]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.22-01.05.48:440][806]LogInit: FAudioDevice initialized.
+[2022.11.22-01.05.48:440][806]LogAudio: Display: Audio Device (ID: 3) registered with world 'GAE_BULGA_LEVEL'.
+[2022.11.22-01.05.48:469][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.22-01.05.48:524][806]LogLoad: Game class is 'VRGameMode_C'
+[2022.11.22-01.05.48:565][806]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Manny_C already exists. Remove duplicates from the animation graph for this class.
+[2022.11.22-01.05.48:578][806]LogWorld: Bringing World /Game/LevelPrototyping/LEVELS/UEDPIE_0_GAE_BULGA_LEVEL.GAE_BULGA_LEVEL up for play (max tick rate 0) at 2022.11.22-01.05.48
+[2022.11.22-01.05.48:583][806]LogWorld: Bringing up level for play took: 0.058585
+[2022.11.22-01.05.48:591][806]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.11.22-01.05.48:593][806]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.11.22-01.05.48:631][806]PIE: Server logged in
+[2022.11.22-01.05.48:646][806]PIE: Play in editor total start time 0.411 seconds.
+[2022.11.22-01.05.48:775][806]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.22-01.05.48:847][806]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2022.11.22-01.06.45:122][741]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.22-01.06.48:654][741]LogStats: FPlatformStackWalk::StackWalkAndDump -  3.533 s
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: 
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: Ensure condition failed: ((Result) >= 0) [File:D:\build\++UE5\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.cpp] [Line: 2055]
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: OpenXR call failed with result XR_ERROR_RUNTIME_FAILURE
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: Stack: 
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: [Callstack] 0x00007ffec6ac7703 UnrealEditor-OpenXRHMD.dll!FOpenXRHMD::OnBeginSimulation_GameThread() [D:\build\++UE5\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.cpp:2055]
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: [Callstack] 0x00007ffec6ac95e0 UnrealEditor-OpenXRHMD.dll!FOpenXRHMD::OnStartGameFrame() [D:\build\++UE5\Sync\Engine\Plugins\Runtime\OpenXR\Source\OpenXRHMD\Private\OpenXRHMD.cpp:2210]
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: [Callstack] 0x00007ffefa715d49 UnrealEditor-Engine.dll!UWorld::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Engine\Private\LevelTick.cpp:1345]
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: [Callstack] 0x00007ffef813e5f5 UnrealEditor-UnrealEd.dll!UEditorEngine::Tick() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\EditorEngine.cpp:1777]
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: [Callstack] 0x00007ffef8acaac6 UnrealEditor-UnrealEd.dll!UUnrealEdEngine::Tick() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Private\UnrealEdEngine.cpp:474]
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: [Callstack] 0x00007ff6e33382f6 UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5215]
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: [Callstack] 0x00007ff6e3350d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: [Callstack] 0x00007ff6e3350e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: [Callstack] 0x00007ff6e3353c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.11.22-01.06.48:655][741]LogOutputDevice: Error: [Callstack] 0x00007ff6e3365564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.11.22-01.06.48:656][741]LogOutputDevice: Error: [Callstack] 0x00007ff6e3368736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.11.22-01.06.48:656][741]LogOutputDevice: Error: [Callstack] 0x00007fff690174b4 KERNEL32.DLL!UnknownFunction []
+[2022.11.22-01.06.48:656][741]LogOutputDevice: Error: [Callstack] 0x00007fff6a5426a1 ntdll.dll!UnknownFunction []
+[2022.11.22-01.06.48:656][741]LogOutputDevice: Error: 
