@@ -366,3 +366,6 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.23-00.40.45:909][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
 [2022.11.23-00.40.45:909][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
 [2022.11.23-00.40.45:930][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.11.23-00.55.36:410][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.11.23-00.55.36:410][  0]LogHMD: Optional extension XR_KHR_binding_modification is not available
+[2022.11.23-00.55.36:410][  0]LogHMD: Optional extension XR_EXT_dpad_binding is not available
